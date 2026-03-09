@@ -1,0 +1,4 @@
+notepad
+hello world
+my passwd is pass 23342
+please dont miss use it
